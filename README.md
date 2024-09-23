@@ -13,5 +13,8 @@
 2. Musica
 3. Formula 1
 
-[Link Curriculum]()
+[Link Curriculum](https://github.com/Alberto-Nencha/myCurriculum-Alberto-Nencha/tree/main)
+
+
+Foto a caso
 ![Immagine a caso](https://picsum.photos/200/300)
