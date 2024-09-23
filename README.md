@@ -13,4 +13,5 @@
 2. Musica
 3. Formula 1
 
+[Link Curriculum]()
 ![Immagine a caso](https://picsum.photos/200/300)
