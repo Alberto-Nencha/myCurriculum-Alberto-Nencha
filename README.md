@@ -2,7 +2,9 @@
 
 # *Informazioni Personali*
 *Nome*: Alberto Nencha
+
 *Data di nascita*: 7/10/2001
+
 *Luogo di Nascita*: Acquaviva delle Fonti
 
 # *Recapiti*
