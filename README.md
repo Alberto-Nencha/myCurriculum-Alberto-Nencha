@@ -13,6 +13,4 @@
 2. Musica
 3. Formula 1
 
-Immagine a Caso
-
-[Immagine a caso](https://picsum.photos/200/300)
+![Immagine a caso](https://picsum.photos/200/300)
