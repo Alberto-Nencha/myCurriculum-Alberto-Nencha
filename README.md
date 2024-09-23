@@ -21,7 +21,7 @@
 2. Informatica
 3. Intelligenza artificiale
 
-[Link Curriculum](https://github.com/Alberto-Nencha/myCurriculum-Alberto-Nencha/tree/main)
+[Link Curriculum](https://github.com/Alberto-Nencha/myCurriculum-Alberto-Nencha/blob/main/README.md)
 
 
 Foto a caso
@@ -32,4 +32,4 @@ Foto a caso
 
 
 
-![Immagine a caso](https://picsum.photos/200/300)
+![Immagine a caso](https://picsum.photos/300/300)
